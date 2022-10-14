@@ -1,6 +1,6 @@
 # MongoDB with C#
 
-English | [简体中文](https://github.com/varm/dotnet.mongodb/blob/master/README.zh-CN.md)
+English | [简体中文](https://github.com/varm/dotnet.mongodb/blob/main/README.zh-CN.md)
 
 ## Introduction 
 

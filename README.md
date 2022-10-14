@@ -30,4 +30,4 @@ The following is a personal local development environment, if the environment is
 
 ## License
 
-MIT © Zerow
+[MIT License](https://opensource.org/licenses/MIT) © Zerow

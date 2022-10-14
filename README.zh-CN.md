@@ -28,4 +28,4 @@
 
 ## License
 
-MIT © Zerow
+[MIT License](https://opensource.org/licenses/MIT) © Zerow
